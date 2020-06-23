@@ -1,5 +1,5 @@
 # Descrição do projeto
-Aplicação web utilizando o localStorage de browsers como Banco de Dados momentâneo, JS, Orientação a objetos e o conceito de PWA.
+Aplicação simples de anotações de despesas desenvolvida em ECMA Script para fixação de conteúdo
 # Layout
 ![01](https://user-images.githubusercontent.com/39563063/85459606-bc6a2f80-b578-11ea-95fd-c7c5e72b0d3b.png)
 ![02](https://user-images.githubusercontent.com/39563063/85459628-c2601080-b578-11ea-9e51-5e1fa947be01.png)
